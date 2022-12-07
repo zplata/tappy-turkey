@@ -2,3 +2,25 @@ canvas {
   height: 100vh;
   width: 100vw;
 }
+
+body {
+  background-color: #D6B78E;
+}
+
+.scores {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30%;
+}
+
+.high-score {
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Cherry Bomb";
+}
+
+.score {
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Cherry Bomb";
+}
